@@ -1,84 +1,85 @@
-# NooMarx — Теория Ноомарксизма
+# NooMarx — The Theory of Noomarxism
 
-Проект посвящен разработке и систематизации теории **ноомарксизма** — переосмысления классического марксизма в контексте современной технологической революции, развития искусственного интеллекта и трансформации производственных отношений.
+> 🇬🇧 **English (default)** · 🇷🇺 [Русская версия](README.ru.md)
 
-> 🤖 **Для ИИ-агентов:** контекст, словарь терминов и правила работы — в [`AGENTS.md`](AGENTS.md). Claude загружает его автоматически через `CLAUDE.md`; GitHub Copilot — через `.github/copilot-instructions.md`.
+This project develops and systematizes the theory of **noomarxism** — a rethinking of classical Marxism in the context of the contemporary technological revolution, the rise of artificial intelligence, and the transformation of relations of production.
+
+> 🤖 **For AI agents:** context, glossary, and working rules are in [`AGENTS.md`](AGENTS.md) (EN: [`AGENTS.en.md`](AGENTS.en.md)). Claude auto-loads it via `CLAUDE.md`; GitHub Copilot via `.github/copilot-instructions.md`. Terminology is locked in [`GLOSSARY.md`](GLOSSARY.md).
 >
-> 🇬🇧 **English:** [`README.en.md`](README.en.md) · [`AGENTS.en.md`](AGENTS.en.md) · [`GLOSSARY.md`](GLOSSARY.md) (locked RU↔EN terms).
+> ⚠️ **Source of truth is Russian.** The deep theory docs are in Russian; English files are entry points. AI agents read Russian natively and should use the locked terms in `GLOSSARY.md` when producing English.
 
-## Ключевая идея: Когнитариат
+## Core idea: the Cognitariat
 
-**Когнитариат** — новый революционный класс постиндустриального общества, состоящий из работников, занятых:
-- Обработкой информации
-- Производством знаний
-- Разработкой технологий
-- Созданием сложных систем
+The **cognitariat** is the new revolutionary class of post-industrial society, made up of workers engaged in:
+- information processing
+- knowledge production
+- technology development
+- building complex systems
 
-### Отличия от классического пролетариата
+### Differences from the classical proletariat
 
-| Аспект | Пролетариат | Когнитариат |
-|--------|-----------|-------------|
-| **Характер труда** | Абстрагированный, сведённый к продаже рабочей силы | Творческий, всеобщий |
-| **Отчуждение** | Отчуждённый труд | **Неотчуждённый** труд |
-| **Место в производстве** | Носитель частичной функции | Иное место в системе производства |
-| **Историческая роль** | Главный прогрессивный субъект (XX в.) | Авангард революции (XXI в.) |
-| **Материальность** | Преобразование материалов | Преобразование информации и знаний |
+| Aspect | Proletariat | Cognitariat |
+|--------|-------------|-------------|
+| **Character of labor** | Abstracted, reduced to selling labor-power | Creative, general |
+| **Alienation** | Alienated labor | **Non-alienated** labor |
+| **Place in production** | Carrier of a partial function | A different place in the system of production |
+| **Historical role** | Principal progressive subject (20th c.) | Vanguard of the revolution (21st c.) |
+| **Materiality** | Transformation of materials | Transformation of information and knowledge |
 
-> ⚠️ Когнитариат — **не** «креативный класс» Р. Флориды. Критерий когнитариата — его **революционный потенциал**, который концепция креативного класса игнорирует.
+> ⚠️ The cognitariat is **not** R. Florida's "creative class." Its defining criterion is **revolutionary potential**, which the creative-class concept ignores.
 
-## Когнитарная революция
+## The Cognitarian Revolution
 
-Когнитарная революция — фундаментальный сдвиг в способе производства, сопоставимый с промышленной революцией (промышленная автоматизировала физический труд — когнитарная автоматизирует когнитивный). Её ключевые параметры:
+The cognitarian revolution is a fundamental shift in the mode of production, comparable in scale to the industrial revolution (the industrial revolution automated physical labor — the cognitarian revolution automates cognitive labor). Its key parameters:
 
-1. **Технологический драйвер**: развитие нейросетей и искусственного интеллекта
-2. **Трансформация труда**: подрыв традиционного наёмного труда и профессиональной специализации
-3. **Новые производственные отношения**: переход от разделения труда к интегрированным системам
-4. **Идеологические сдвиги**: устаревание либеральной парадигмы в новых условиях
+1. **Technological driver:** development of neural networks and artificial intelligence
+2. **Transformation of labor:** undermining traditional wage labor and occupational specialization
+3. **New relations of production:** transition from the division of labor toward integrated systems
+4. **Ideological shifts:** obsolescence of the liberal paradigm under new conditions
 
-## Методологические основы
+## Methodological foundations
 
-Ноомарксизм — не частная ревизия марксизма, а **новая целостная парадигма**, которая:
-- Переосмысляет категории автоматизации, труда и собственности
-- Рассматривает умственную деятельность как часть материального производства
-- Анализирует философскую основу через концепцию вселенной как процесса самообучения
+Noomarxism is not a partial revision of Marxism but a **new, complete paradigm** that:
+- rethinks the categories of automation, labor, and property
+- treats intellectual activity as part of material production
+- analyzes its philosophical basis through the idea of the universe as a self-learning process
 
-## Свободное производство
+## Free production
 
-Положительный полюс теории — способ производства, идущий на смену товарному: добровольный труд, коллективная собственность, распределение по потребностям, социальная направленность. Уже существует в информационной сфере (Wikipedia, GNU/Linux, open source) и распространяется на материальное производство. Подробнее — [`FREE_PRODUCTION.md`](FREE_PRODUCTION.md).
+The positive pole of the theory — a mode of production succeeding commodity production: voluntary labor, collective ownership, distribution by need, social orientation. It already exists in the information sphere (Wikipedia, GNU/Linux, open source) and is spreading to material production. See [`FREE_PRODUCTION.md`](FREE_PRODUCTION.md).
 
-## Шесть тем теории (по структуре noomarxism.ru)
+## Six themes of the theory (per noomarxism.ru)
 
-1. **Власть** — политическая теория, государство, гегемония
-2. **Гипотеза о когнитариате** — определение и обоснование нового класса
-3. **Исторический материализм** — методологическое ядро
-4. **Когнитарная революция** — сдвиг, вызванный ИИ
-5. **Когнитарное и свободное производство** — новый способ производства
-6. **Культурное** — книги, кино, сериалы как материал анализа
+1. **Power** — political theory, the state, hegemony
+2. **The Cognitariat Hypothesis** — definition and grounding of the new class
+3. **Historical Materialism** — methodological core
+4. **The Cognitarian Revolution** — the shift driven by AI
+5. **Cognitarian and Free Production** — the new mode of production
+6. **Cultural** — books, film, series as material for analysis
 
-## Документы репозитория
+## Repository documents
 
-| Файл | Содержание |
-|------|-----------|
-| [`AGENTS.md`](AGENTS.md) | Контекст и правила для ИИ-агентов |
-| [`GLOSSARY.md`](GLOSSARY.md) | Залоченный словарь терминов RU↔EN |
-| [`NOOMARXISM_CORE_THEORY.md`](NOOMARXISM_CORE_THEORY.md) | Полная теория, 8 разделов |
-| [`DIVISION_OF_LABOR.md`](DIVISION_OF_LABOR.md) | Разделение труда и его снятие |
-| [`TECHNOLOGY_CAPITAL.md`](TECHNOLOGY_CAPITAL.md) | Технокапитал, платформы, рента внимания |
-| [`AI_AGENTS_MIRROR.md`](AI_AGENTS_MIRROR.md) | ИИ как зеркало, субъектность |
-| [`FREE_PRODUCTION.md`](FREE_PRODUCTION.md) | Свободное производство |
-| [`PRACTICE_CIRCLES.md`](PRACTICE_CIRCLES.md) | Кружки, форсайт, практика |
-| [`INDEX.md`](INDEX.md) | Полный индекс и ключевые тезисы |
+| File | Contents |
+|------|----------|
+| [`AGENTS.md`](AGENTS.md) / [`AGENTS.en.md`](AGENTS.en.md) | Context & rules for AI agents (RU / EN) |
+| [`GLOSSARY.md`](GLOSSARY.md) | Locked RU↔EN terminology |
+| [`NOOMARXISM_CORE_THEORY.md`](NOOMARXISM_CORE_THEORY.md) | Full theory, 8 sections (RU) |
+| [`DIVISION_OF_LABOR.md`](DIVISION_OF_LABOR.md) | Division of labor and its abolition (RU) |
+| [`TECHNOLOGY_CAPITAL.md`](TECHNOLOGY_CAPITAL.md) | Technocapital, platforms, attention rent (RU) |
+| [`AI_AGENTS_MIRROR.md`](AI_AGENTS_MIRROR.md) | AI as mirror, subjecthood (RU) |
+| [`FREE_PRODUCTION.md`](FREE_PRODUCTION.md) | Free production (RU) |
+| [`PRACTICE_CIRCLES.md`](PRACTICE_CIRCLES.md) | Circles, foresight, practice (RU) |
+| [`INDEX.md`](INDEX.md) | Full index and key theses (RU) |
+| [`README.ru.md`](README.ru.md) | This overview in Russian |
 
-## Первоисточники
+## Primary sources
 
-- **Сайт:** [noomarxism.ru](https://noomarxism.ru) — навигатор по теории (~333 материала)
+- **Site:** [noomarxism.ru](https://noomarxism.ru) — navigator of the theory (~333 materials)
 - **Telegram:** [@noomarxism](https://t.me/noomarxism)
-- **Темы:** [Гипотеза когнитариата](https://noomarxism.ru/topic/cognitariat-hypothesis) · [Когнитарная революция](https://noomarxism.ru/topic/cognitive-revolution)
+- **Themes:** [Cognitariat hypothesis](https://noomarxism.ru/topic/cognitariat-hypothesis) · [Cognitarian revolution](https://noomarxism.ru/topic/cognitive-revolution)
 
 ---
 
-**Статус**: Активная разработка теории и методологии
+**Status:** active development of the theory and methodology
 
-**Автор идеи**: Проект анализирует и систематизирует идеи ноомарксизма
-
-**Дата создания**: 2026
+**Created:** 2026

@@ -71,7 +71,7 @@ Full table in [`GLOSSARY.md`](GLOSSARY.md). The essentials:
 |------|----------|
 | `AGENTS.md` / `AGENTS.en.md` | Context & rules for agents (RU / EN) |
 | `GLOSSARY.md` | Locked RU↔EN terminology |
-| `README.md` / `README.en.md` | Human-readable overview (RU / EN) |
+| `README.md` / `README.ru.md` | Human-readable overview (EN default / RU) |
 | `INDEX.md` | Full index + key theses |
 | `NOOMARXISM_CORE_THEORY.md` | Full theory, 8 sections |
 | `DIVISION_OF_LABOR.md` | 4 types of division of labor and their abolition |
