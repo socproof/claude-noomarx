@@ -1,6 +1,16 @@
 # CLAUDE.md
 
-Behavioral guidelines to reduce common LLM coding mistakes. Merge with project-specific instructions as needed.
+## Контекст проекта (читай первым)
+
+Этот репозиторий — база знаний по **теории ноомарксизма**, оформленная для ИИ-агентов. Полный контекст, словарь терминов и правила работы — в `AGENTS.md`, который импортируется ниже. Прочитай его перед любой задачей по содержанию теории.
+
+@AGENTS.md
+
+---
+
+## Поведенческие принципы
+
+Behavioral guidelines to reduce common LLM coding mistakes. Merge with project-specific instructions as needed. Для этого репозитория «код» — это тексты теории; принципы ниже применяй к редактированию материалов (точность, минимальные правки, верность источнику).
 
 **Tradeoff:** These guidelines bias toward caution over speed. For trivial tasks, use judgment.
 
